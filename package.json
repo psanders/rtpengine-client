@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "bencode": "^2.0.1",
+    "dgram": "^1.0.1",
     "uuid": "^8.2.0"
   },
   "keywords": [
